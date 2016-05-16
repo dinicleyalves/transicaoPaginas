@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+form{
+	max-width: 280px;
+	margin: 50px auto;
+	padding:20px;
+	background: #fff;
+	box-shadow: 0 0 5px 1px #ccc
+}
